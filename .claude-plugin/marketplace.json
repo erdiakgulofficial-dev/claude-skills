@@ -1,0 +1,13 @@
+{
+  "name": "erdi-skills",
+  "owner": {
+    "name": "Erdi Akgul"
+  },
+  "plugins": [
+    {
+      "name": "profesyonel-web-tasarim",
+      "source": "./profesyonel-web-tasarim",
+      "description": "Profesyonel web tasarım projelerini uzman rolleriyle (ürün yöneticisi, UI/UX, frontend, backend, içerik, SEO, QA) sistematik yürüten iş akışı"
+    }
+  ]
+}
