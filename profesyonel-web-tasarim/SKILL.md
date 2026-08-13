@@ -18,6 +18,7 @@ Bu skill, bir web projesini gerçek bir ajans gibi çok rollü şekilde yürütm
 | İçerik & Metin Yazarı | `references/icerik-metin.md` | Sitedeki tüm metinler — başlıklar, CTA'lar, açıklamalar |
 | SEO & Performans | `references/seo-performans.md` | Meta etiketler, semantik yapı, hız optimizasyonu |
 | QA & Test | `references/qa-test.md` | Teslimden ÖNCE — son kontrol listesi |
+| Animasyon & 3D | `references/animasyon-3d.md` | Animasyonlu/interaktif/3D site istendiğinde (GSAP, Three.js, scroll efektleri) |
 
 ## İş Akışı
 
